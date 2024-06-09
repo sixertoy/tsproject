@@ -1,7 +1,9 @@
 {
   "name": "@nappr/tsproject",
   "description": "CLI to create tsconfig files from a tsproject config file",
-  "version": "0.1.0",
-  "private": true,
-  "bin": "./bin/tsproject"
+  "version": "0.2.0",
+  "private": false,
+  "bin": {
+    "tsproject": "./bin/tsproject"
+  }
 }

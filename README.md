@@ -7,13 +7,13 @@ A convenient Node.js script that simplifies the process of managing TypeScript c
 Install the script as a development dependency using yarn:
 
 ```bash
-yarn add tsproject --dev
+yarn add @nappr/tsproject --dev
 ```
 
 Or, if you prefer Npm:
 
 ```bash
-npm install tsproject --save-dev
+npm install @nappr/tsproject --save-dev
 ```
 
 ## 📜 Configuration File
